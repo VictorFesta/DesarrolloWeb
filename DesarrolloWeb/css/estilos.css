@@ -1,0 +1,50 @@
+* {
+    color: rgb(110, 107, 101)
+}
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid rgb(58, 54, 54);
+    padding: 15px ;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 60px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    color: rgb(95, 63, 63);
+    text-align: left;
+    
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(95, 63, 63);
+    text-align: left;
+    
+}
+section {
+    width: 300px;
+    border: 15px solid rgb(24, 48, 24);
+    padding: 50px;
+    margin: 20px;
+}
+
+body {
+    background-color: #ffffff;
+    padding: 1px;
+    text-align: left;
+    color: white;
+  }
+
+footer {
+    background-color: #ffffff;
+    text-align: left;
+    color: white;
+  }
